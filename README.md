@@ -32,22 +32,32 @@ The application runs in the terminal and allows users to interactively create an
 
 ##  How to Run
 
-1. Make sure Python is installed on your system
+1. Make sure Python is installed on your system  
 2. Run the program using the terminal:
 
-```bash
 python bst.py
-Enter values as prompted to build the tree
-Select operations from the menu displayed in the terminal
 
-## Project Files
-bst.py                   # Binary Search Tree implementation
-bst_project_report.pdf   # Project report
-README.md                # Project documentation
+3. Enter values as prompted to build the tree  
+4. Select operations from the menu displayed in the terminal  
 
-## Academic Context
-This project was developed to practice tree-based data structures and recursive algorithms within the scope of a Data Structures course.
+---
 
-## Author
-İlayda Meryem Coşkun
+##  Project Files
+
+bst.py
+bst_project_report.pdf
+README.md
+
+---
+
+##  Academic Context
+
+This project was developed to practice **tree-based data structures** and **recursive algorithms** within the scope of a Data Structures course.
+
+---
+
+##  Author
+
+**İlayda Meryem Coşkun**  
 Computer Engineering Student
+
